@@ -1,0 +1,30 @@
+[11-Mar-2021 09:20:07 Europe/Moscow] PHP Fatal error:  Class 'yii\console\Controller' not found in /home/adfbedae/yii2.xn--80aa1a3abee6e.xn--p1ai/commands/HelloController.php on line 21
+[11-Mar-2021 09:20:07 Europe/Moscow] PHP Stack trace:
+[11-Mar-2021 09:20:07 Europe/Moscow] PHP   1. {main}() /home/adfbedae/yii2.xn--80aa1a3abee6e.xn--p1ai/commands/HelloController.php:0
+[11-Mar-2021 09:20:07 Europe/Moscow] PHP Fatal error:  Class 'yii\console\Controller' not found in /home/adfbedae/yii2.xn--80aa1a3abee6e.xn--p1ai/commands/HelloController.php on line 21
+[11-Mar-2021 09:20:07 Europe/Moscow] PHP Stack trace:
+[11-Mar-2021 09:20:07 Europe/Moscow] PHP   1. {main}() /home/adfbedae/yii2.xn--80aa1a3abee6e.xn--p1ai/commands/HelloController.php:0
+[11-Mar-2021 09:20:07 Europe/Moscow] PHP Fatal error:  Class 'yii\console\Controller' not found in /home/adfbedae/yii2.xn--80aa1a3abee6e.xn--p1ai/commands/HelloController.php on line 21
+[11-Mar-2021 09:20:07 Europe/Moscow] PHP Stack trace:
+[11-Mar-2021 09:20:07 Europe/Moscow] PHP   1. {main}() /home/adfbedae/yii2.xn--80aa1a3abee6e.xn--p1ai/commands/HelloController.php:0
+[11-Mar-2021 09:20:07 Europe/Moscow] PHP Fatal error:  Class 'yii\console\Controller' not found in /home/adfbedae/yii2.xn--80aa1a3abee6e.xn--p1ai/commands/HelloController.php on line 21
+[11-Mar-2021 09:20:07 Europe/Moscow] PHP Stack trace:
+[11-Mar-2021 09:20:07 Europe/Moscow] PHP   1. {main}() /home/adfbedae/yii2.xn--80aa1a3abee6e.xn--p1ai/commands/HelloController.php:0
+[11-Mar-2021 09:20:35 Europe/Moscow] PHP Fatal error:  Class 'yii\console\Controller' not found in /home/adfbedae/yii2.xn--80aa1a3abee6e.xn--p1ai/commands/HelloController.php on line 21
+[11-Mar-2021 09:20:35 Europe/Moscow] PHP Stack trace:
+[11-Mar-2021 09:20:35 Europe/Moscow] PHP   1. {main}() /home/adfbedae/yii2.xn--80aa1a3abee6e.xn--p1ai/commands/HelloController.php:0
+[11-Mar-2021 09:20:35 Europe/Moscow] PHP Fatal error:  Class 'yii\console\Controller' not found in /home/adfbedae/yii2.xn--80aa1a3abee6e.xn--p1ai/commands/HelloController.php on line 21
+[11-Mar-2021 09:20:35 Europe/Moscow] PHP Stack trace:
+[11-Mar-2021 09:20:35 Europe/Moscow] PHP   1. {main}() /home/adfbedae/yii2.xn--80aa1a3abee6e.xn--p1ai/commands/HelloController.php:0
+[11-Mar-2021 09:20:57 Europe/Moscow] PHP Fatal error:  Class 'yii\console\Controller' not found in /home/adfbedae/yii2.xn--80aa1a3abee6e.xn--p1ai/commands/HelloController.php on line 21
+[11-Mar-2021 09:20:57 Europe/Moscow] PHP Stack trace:
+[11-Mar-2021 09:20:57 Europe/Moscow] PHP   1. {main}() /home/adfbedae/yii2.xn--80aa1a3abee6e.xn--p1ai/commands/HelloController.php:0
+[11-Mar-2021 09:20:57 Europe/Moscow] PHP Fatal error:  Class 'yii\console\Controller' not found in /home/adfbedae/yii2.xn--80aa1a3abee6e.xn--p1ai/commands/HelloController.php on line 21
+[11-Mar-2021 09:20:57 Europe/Moscow] PHP Stack trace:
+[11-Mar-2021 09:20:57 Europe/Moscow] PHP   1. {main}() /home/adfbedae/yii2.xn--80aa1a3abee6e.xn--p1ai/commands/HelloController.php:0
+[11-Mar-2021 09:21:25 Europe/Moscow] PHP Fatal error:  Class 'yii\console\Controller' not found in /home/adfbedae/yii2.xn--80aa1a3abee6e.xn--p1ai/commands/HelloController.php on line 21
+[11-Mar-2021 09:21:25 Europe/Moscow] PHP Stack trace:
+[11-Mar-2021 09:21:25 Europe/Moscow] PHP   1. {main}() /home/adfbedae/yii2.xn--80aa1a3abee6e.xn--p1ai/commands/HelloController.php:0
+[11-Mar-2021 09:21:44 Europe/Moscow] PHP Fatal error:  Class 'yii\console\Controller' not found in /home/adfbedae/yii2.xn--80aa1a3abee6e.xn--p1ai/commands/HelloController.php on line 21
+[11-Mar-2021 09:21:44 Europe/Moscow] PHP Stack trace:
+[11-Mar-2021 09:21:44 Europe/Moscow] PHP   1. {main}() /home/adfbedae/yii2.xn--80aa1a3abee6e.xn--p1ai/commands/HelloController.php:0

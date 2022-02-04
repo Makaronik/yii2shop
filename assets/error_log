@@ -1,0 +1,36 @@
+[11-Mar-2021 09:20:15 Europe/Moscow] PHP Fatal error:  Class 'yii\web\AssetBundle' not found in /home/adfbedae/yii2.xn--80aa1a3abee6e.xn--p1ai/assets/AppAsset.php on line 18
+[11-Mar-2021 09:20:15 Europe/Moscow] PHP Stack trace:
+[11-Mar-2021 09:20:15 Europe/Moscow] PHP   1. {main}() /home/adfbedae/yii2.xn--80aa1a3abee6e.xn--p1ai/assets/AppAsset.php:0
+[11-Mar-2021 09:20:15 Europe/Moscow] PHP Fatal error:  Class 'yii\web\AssetBundle' not found in /home/adfbedae/yii2.xn--80aa1a3abee6e.xn--p1ai/assets/AppAsset.php on line 18
+[11-Mar-2021 09:20:15 Europe/Moscow] PHP Stack trace:
+[11-Mar-2021 09:20:15 Europe/Moscow] PHP   1. {main}() /home/adfbedae/yii2.xn--80aa1a3abee6e.xn--p1ai/assets/AppAsset.php:0
+[11-Mar-2021 09:20:15 Europe/Moscow] PHP Fatal error:  Class 'yii\web\AssetBundle' not found in /home/adfbedae/yii2.xn--80aa1a3abee6e.xn--p1ai/assets/AppAsset.php on line 18
+[11-Mar-2021 09:20:15 Europe/Moscow] PHP Stack trace:
+[11-Mar-2021 09:20:15 Europe/Moscow] PHP   1. {main}() /home/adfbedae/yii2.xn--80aa1a3abee6e.xn--p1ai/assets/AppAsset.php:0
+[11-Mar-2021 09:20:15 Europe/Moscow] PHP Fatal error:  Class 'yii\web\AssetBundle' not found in /home/adfbedae/yii2.xn--80aa1a3abee6e.xn--p1ai/assets/AppAsset.php on line 18
+[11-Mar-2021 09:20:15 Europe/Moscow] PHP Stack trace:
+[11-Mar-2021 09:20:15 Europe/Moscow] PHP   1. {main}() /home/adfbedae/yii2.xn--80aa1a3abee6e.xn--p1ai/assets/AppAsset.php:0
+[11-Mar-2021 09:20:25 Europe/Moscow] PHP Fatal error:  Class 'yii\web\AssetBundle' not found in /home/adfbedae/yii2.xn--80aa1a3abee6e.xn--p1ai/assets/AppAsset.php on line 18
+[11-Mar-2021 09:20:25 Europe/Moscow] PHP Stack trace:
+[11-Mar-2021 09:20:25 Europe/Moscow] PHP   1. {main}() /home/adfbedae/yii2.xn--80aa1a3abee6e.xn--p1ai/assets/AppAsset.php:0
+[11-Mar-2021 09:20:25 Europe/Moscow] PHP Fatal error:  Class 'yii\web\AssetBundle' not found in /home/adfbedae/yii2.xn--80aa1a3abee6e.xn--p1ai/assets/AppAsset.php on line 18
+[11-Mar-2021 09:20:25 Europe/Moscow] PHP Stack trace:
+[11-Mar-2021 09:20:25 Europe/Moscow] PHP   1. {main}() /home/adfbedae/yii2.xn--80aa1a3abee6e.xn--p1ai/assets/AppAsset.php:0
+[11-Mar-2021 09:20:26 Europe/Moscow] PHP Fatal error:  Class 'yii\web\AssetBundle' not found in /home/adfbedae/yii2.xn--80aa1a3abee6e.xn--p1ai/assets/AppAsset.php on line 18
+[11-Mar-2021 09:20:26 Europe/Moscow] PHP Stack trace:
+[11-Mar-2021 09:20:26 Europe/Moscow] PHP   1. {main}() /home/adfbedae/yii2.xn--80aa1a3abee6e.xn--p1ai/assets/AppAsset.php:0
+[11-Mar-2021 09:20:26 Europe/Moscow] PHP Fatal error:  Class 'yii\web\AssetBundle' not found in /home/adfbedae/yii2.xn--80aa1a3abee6e.xn--p1ai/assets/AppAsset.php on line 18
+[11-Mar-2021 09:20:26 Europe/Moscow] PHP Stack trace:
+[11-Mar-2021 09:20:26 Europe/Moscow] PHP   1. {main}() /home/adfbedae/yii2.xn--80aa1a3abee6e.xn--p1ai/assets/AppAsset.php:0
+[11-Mar-2021 09:20:29 Europe/Moscow] PHP Fatal error:  Class 'yii\web\AssetBundle' not found in /home/adfbedae/yii2.xn--80aa1a3abee6e.xn--p1ai/assets/AppAsset.php on line 18
+[11-Mar-2021 09:20:29 Europe/Moscow] PHP Stack trace:
+[11-Mar-2021 09:20:29 Europe/Moscow] PHP   1. {main}() /home/adfbedae/yii2.xn--80aa1a3abee6e.xn--p1ai/assets/AppAsset.php:0
+[11-Mar-2021 09:20:30 Europe/Moscow] PHP Fatal error:  Class 'yii\web\AssetBundle' not found in /home/adfbedae/yii2.xn--80aa1a3abee6e.xn--p1ai/assets/AppAsset.php on line 18
+[11-Mar-2021 09:20:30 Europe/Moscow] PHP Stack trace:
+[11-Mar-2021 09:20:30 Europe/Moscow] PHP   1. {main}() /home/adfbedae/yii2.xn--80aa1a3abee6e.xn--p1ai/assets/AppAsset.php:0
+[11-Mar-2021 09:21:08 Europe/Moscow] PHP Fatal error:  Class 'yii\web\AssetBundle' not found in /home/adfbedae/yii2.xn--80aa1a3abee6e.xn--p1ai/assets/AppAsset.php on line 18
+[11-Mar-2021 09:21:08 Europe/Moscow] PHP Stack trace:
+[11-Mar-2021 09:21:08 Europe/Moscow] PHP   1. {main}() /home/adfbedae/yii2.xn--80aa1a3abee6e.xn--p1ai/assets/AppAsset.php:0
+[11-Mar-2021 09:21:08 Europe/Moscow] PHP Fatal error:  Class 'yii\web\AssetBundle' not found in /home/adfbedae/yii2.xn--80aa1a3abee6e.xn--p1ai/assets/AppAsset.php on line 18
+[11-Mar-2021 09:21:08 Europe/Moscow] PHP Stack trace:
+[11-Mar-2021 09:21:08 Europe/Moscow] PHP   1. {main}() /home/adfbedae/yii2.xn--80aa1a3abee6e.xn--p1ai/assets/AppAsset.php:0

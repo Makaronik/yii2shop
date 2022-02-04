@@ -1,0 +1,48 @@
+[11-Mar-2021 09:20:07 Europe/Moscow] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/adfbedae/yii2.xn--80aa1a3abee6e.xn--p1ai/views/site/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/adfbedae/yii2.xn--80aa1a3abee6e.xn--p1ai/views/site/index.php on line 5
+[11-Mar-2021 09:20:07 Europe/Moscow] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/adfbedae/yii2.xn--80aa1a3abee6e.xn--p1ai/views/site/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/adfbedae/yii2.xn--80aa1a3abee6e.xn--p1ai/views/site/index.php on line 5
+[11-Mar-2021 09:20:11 Europe/Moscow] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/adfbedae/yii2.xn--80aa1a3abee6e.xn--p1ai/views/site/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/adfbedae/yii2.xn--80aa1a3abee6e.xn--p1ai/views/site/index.php on line 5
+[11-Mar-2021 09:20:29 Europe/Moscow] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/adfbedae/yii2.xn--80aa1a3abee6e.xn--p1ai/views/site/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/adfbedae/yii2.xn--80aa1a3abee6e.xn--p1ai/views/site/index.php on line 5
+[11-Mar-2021 09:20:29 Europe/Moscow] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/adfbedae/yii2.xn--80aa1a3abee6e.xn--p1ai/views/site/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/adfbedae/yii2.xn--80aa1a3abee6e.xn--p1ai/views/site/index.php on line 5
+[11-Mar-2021 09:20:29 Europe/Moscow] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/adfbedae/yii2.xn--80aa1a3abee6e.xn--p1ai/views/site/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/adfbedae/yii2.xn--80aa1a3abee6e.xn--p1ai/views/site/index.php on line 5
+[11-Mar-2021 09:20:30 Europe/Moscow] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/adfbedae/yii2.xn--80aa1a3abee6e.xn--p1ai/views/site/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/adfbedae/yii2.xn--80aa1a3abee6e.xn--p1ai/views/site/index.php on line 5
+[11-Mar-2021 09:20:32 Europe/Moscow] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/adfbedae/yii2.xn--80aa1a3abee6e.xn--p1ai/views/site/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/adfbedae/yii2.xn--80aa1a3abee6e.xn--p1ai/views/site/index.php on line 5
+[11-Mar-2021 09:20:33 Europe/Moscow] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/adfbedae/yii2.xn--80aa1a3abee6e.xn--p1ai/views/site/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/adfbedae/yii2.xn--80aa1a3abee6e.xn--p1ai/views/site/index.php on line 5
+[11-Mar-2021 09:20:34 Europe/Moscow] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/adfbedae/yii2.xn--80aa1a3abee6e.xn--p1ai/views/site/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/adfbedae/yii2.xn--80aa1a3abee6e.xn--p1ai/views/site/index.php on line 5
+[11-Mar-2021 09:20:59 Europe/Moscow] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/adfbedae/yii2.xn--80aa1a3abee6e.xn--p1ai/views/site/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/adfbedae/yii2.xn--80aa1a3abee6e.xn--p1ai/views/site/index.php on line 5
+[11-Mar-2021 09:21:01 Europe/Moscow] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/adfbedae/yii2.xn--80aa1a3abee6e.xn--p1ai/views/site/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/adfbedae/yii2.xn--80aa1a3abee6e.xn--p1ai/views/site/index.php on line 5

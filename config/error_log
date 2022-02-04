@@ -1,0 +1,30 @@
+[11-Mar-2021 09:20:02 Europe/Moscow] PHP Warning:  Use of undefined constant YII_DEBUG - assumed 'YII_DEBUG' (this will throw an Error in a future version of PHP) in /home/adfbedae/yii2.xn--80aa1a3abee6e.xn--p1ai/config/web.php on line 37
+[11-Mar-2021 09:20:02 Europe/Moscow] PHP Stack trace:
+[11-Mar-2021 09:20:02 Europe/Moscow] PHP   1. {main}() /home/adfbedae/yii2.xn--80aa1a3abee6e.xn--p1ai/config/web.php:0
+[11-Mar-2021 09:20:02 Europe/Moscow] PHP Warning:  Use of undefined constant YII_ENV_DEV - assumed 'YII_ENV_DEV' (this will throw an Error in a future version of PHP) in /home/adfbedae/yii2.xn--80aa1a3abee6e.xn--p1ai/config/web.php on line 58
+[11-Mar-2021 09:20:02 Europe/Moscow] PHP Stack trace:
+[11-Mar-2021 09:20:02 Europe/Moscow] PHP   1. {main}() /home/adfbedae/yii2.xn--80aa1a3abee6e.xn--p1ai/config/web.php:0
+[11-Mar-2021 09:20:02 Europe/Moscow] PHP Warning:  Use of undefined constant YII_DEBUG - assumed 'YII_DEBUG' (this will throw an Error in a future version of PHP) in /home/adfbedae/yii2.xn--80aa1a3abee6e.xn--p1ai/config/web.php on line 37
+[11-Mar-2021 09:20:02 Europe/Moscow] PHP Stack trace:
+[11-Mar-2021 09:20:02 Europe/Moscow] PHP   1. {main}() /home/adfbedae/yii2.xn--80aa1a3abee6e.xn--p1ai/config/web.php:0
+[11-Mar-2021 09:20:02 Europe/Moscow] PHP Warning:  Use of undefined constant YII_ENV_DEV - assumed 'YII_ENV_DEV' (this will throw an Error in a future version of PHP) in /home/adfbedae/yii2.xn--80aa1a3abee6e.xn--p1ai/config/web.php on line 58
+[11-Mar-2021 09:20:02 Europe/Moscow] PHP Stack trace:
+[11-Mar-2021 09:20:02 Europe/Moscow] PHP   1. {main}() /home/adfbedae/yii2.xn--80aa1a3abee6e.xn--p1ai/config/web.php:0
+[11-Mar-2021 09:20:02 Europe/Moscow] PHP Warning:  Use of undefined constant YII_DEBUG - assumed 'YII_DEBUG' (this will throw an Error in a future version of PHP) in /home/adfbedae/yii2.xn--80aa1a3abee6e.xn--p1ai/config/web.php on line 37
+[11-Mar-2021 09:20:02 Europe/Moscow] PHP Stack trace:
+[11-Mar-2021 09:20:02 Europe/Moscow] PHP   1. {main}() /home/adfbedae/yii2.xn--80aa1a3abee6e.xn--p1ai/config/web.php:0
+[11-Mar-2021 09:20:02 Europe/Moscow] PHP Warning:  Use of undefined constant YII_ENV_DEV - assumed 'YII_ENV_DEV' (this will throw an Error in a future version of PHP) in /home/adfbedae/yii2.xn--80aa1a3abee6e.xn--p1ai/config/web.php on line 58
+[11-Mar-2021 09:20:02 Europe/Moscow] PHP Stack trace:
+[11-Mar-2021 09:20:02 Europe/Moscow] PHP   1. {main}() /home/adfbedae/yii2.xn--80aa1a3abee6e.xn--p1ai/config/web.php:0
+[11-Mar-2021 09:20:18 Europe/Moscow] PHP Warning:  Use of undefined constant YII_ENV_DEV - assumed 'YII_ENV_DEV' (this will throw an Error in a future version of PHP) in /home/adfbedae/yii2.xn--80aa1a3abee6e.xn--p1ai/config/console.php on line 40
+[11-Mar-2021 09:20:18 Europe/Moscow] PHP Stack trace:
+[11-Mar-2021 09:20:18 Europe/Moscow] PHP   1. {main}() /home/adfbedae/yii2.xn--80aa1a3abee6e.xn--p1ai/config/console.php:0
+[11-Mar-2021 09:20:18 Europe/Moscow] PHP Warning:  Use of undefined constant YII_ENV_DEV - assumed 'YII_ENV_DEV' (this will throw an Error in a future version of PHP) in /home/adfbedae/yii2.xn--80aa1a3abee6e.xn--p1ai/config/console.php on line 40
+[11-Mar-2021 09:20:18 Europe/Moscow] PHP Stack trace:
+[11-Mar-2021 09:20:18 Europe/Moscow] PHP   1. {main}() /home/adfbedae/yii2.xn--80aa1a3abee6e.xn--p1ai/config/console.php:0
+[11-Mar-2021 09:20:18 Europe/Moscow] PHP Warning:  Use of undefined constant YII_ENV_DEV - assumed 'YII_ENV_DEV' (this will throw an Error in a future version of PHP) in /home/adfbedae/yii2.xn--80aa1a3abee6e.xn--p1ai/config/console.php on line 40
+[11-Mar-2021 09:20:18 Europe/Moscow] PHP Stack trace:
+[11-Mar-2021 09:20:18 Europe/Moscow] PHP   1. {main}() /home/adfbedae/yii2.xn--80aa1a3abee6e.xn--p1ai/config/console.php:0
+[11-Mar-2021 09:20:20 Europe/Moscow] PHP Warning:  Use of undefined constant YII_ENV_DEV - assumed 'YII_ENV_DEV' (this will throw an Error in a future version of PHP) in /home/adfbedae/yii2.xn--80aa1a3abee6e.xn--p1ai/config/console.php on line 40
+[11-Mar-2021 09:20:20 Europe/Moscow] PHP Stack trace:
+[11-Mar-2021 09:20:20 Europe/Moscow] PHP   1. {main}() /home/adfbedae/yii2.xn--80aa1a3abee6e.xn--p1ai/config/console.php:0

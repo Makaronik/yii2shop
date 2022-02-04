@@ -1,0 +1,33 @@
+[11-Mar-2021 09:20:16 Europe/Moscow] PHP Fatal error:  Class 'yii\web\Controller' not found in /home/adfbedae/yii2.xn--80aa1a3abee6e.xn--p1ai/controllers/SiteController.php on line 13
+[11-Mar-2021 09:20:16 Europe/Moscow] PHP Stack trace:
+[11-Mar-2021 09:20:16 Europe/Moscow] PHP   1. {main}() /home/adfbedae/yii2.xn--80aa1a3abee6e.xn--p1ai/controllers/SiteController.php:0
+[11-Mar-2021 09:20:17 Europe/Moscow] PHP Fatal error:  Class 'yii\web\Controller' not found in /home/adfbedae/yii2.xn--80aa1a3abee6e.xn--p1ai/controllers/SiteController.php on line 13
+[11-Mar-2021 09:20:17 Europe/Moscow] PHP Stack trace:
+[11-Mar-2021 09:20:17 Europe/Moscow] PHP   1. {main}() /home/adfbedae/yii2.xn--80aa1a3abee6e.xn--p1ai/controllers/SiteController.php:0
+[11-Mar-2021 09:20:17 Europe/Moscow] PHP Fatal error:  Class 'yii\web\Controller' not found in /home/adfbedae/yii2.xn--80aa1a3abee6e.xn--p1ai/controllers/SiteController.php on line 13
+[11-Mar-2021 09:20:17 Europe/Moscow] PHP Stack trace:
+[11-Mar-2021 09:20:17 Europe/Moscow] PHP   1. {main}() /home/adfbedae/yii2.xn--80aa1a3abee6e.xn--p1ai/controllers/SiteController.php:0
+[11-Mar-2021 09:20:20 Europe/Moscow] PHP Fatal error:  Class 'yii\web\Controller' not found in /home/adfbedae/yii2.xn--80aa1a3abee6e.xn--p1ai/controllers/SiteController.php on line 13
+[11-Mar-2021 09:20:20 Europe/Moscow] PHP Stack trace:
+[11-Mar-2021 09:20:20 Europe/Moscow] PHP   1. {main}() /home/adfbedae/yii2.xn--80aa1a3abee6e.xn--p1ai/controllers/SiteController.php:0
+[11-Mar-2021 09:20:20 Europe/Moscow] PHP Fatal error:  Class 'yii\web\Controller' not found in /home/adfbedae/yii2.xn--80aa1a3abee6e.xn--p1ai/controllers/SiteController.php on line 13
+[11-Mar-2021 09:20:20 Europe/Moscow] PHP Stack trace:
+[11-Mar-2021 09:20:20 Europe/Moscow] PHP   1. {main}() /home/adfbedae/yii2.xn--80aa1a3abee6e.xn--p1ai/controllers/SiteController.php:0
+[11-Mar-2021 09:20:20 Europe/Moscow] PHP Fatal error:  Class 'yii\web\Controller' not found in /home/adfbedae/yii2.xn--80aa1a3abee6e.xn--p1ai/controllers/SiteController.php on line 13
+[11-Mar-2021 09:20:20 Europe/Moscow] PHP Stack trace:
+[11-Mar-2021 09:20:20 Europe/Moscow] PHP   1. {main}() /home/adfbedae/yii2.xn--80aa1a3abee6e.xn--p1ai/controllers/SiteController.php:0
+[11-Mar-2021 09:20:20 Europe/Moscow] PHP Fatal error:  Class 'yii\web\Controller' not found in /home/adfbedae/yii2.xn--80aa1a3abee6e.xn--p1ai/controllers/SiteController.php on line 13
+[11-Mar-2021 09:20:20 Europe/Moscow] PHP Stack trace:
+[11-Mar-2021 09:20:20 Europe/Moscow] PHP   1. {main}() /home/adfbedae/yii2.xn--80aa1a3abee6e.xn--p1ai/controllers/SiteController.php:0
+[11-Mar-2021 09:20:28 Europe/Moscow] PHP Fatal error:  Class 'yii\web\Controller' not found in /home/adfbedae/yii2.xn--80aa1a3abee6e.xn--p1ai/controllers/SiteController.php on line 13
+[11-Mar-2021 09:20:28 Europe/Moscow] PHP Stack trace:
+[11-Mar-2021 09:20:28 Europe/Moscow] PHP   1. {main}() /home/adfbedae/yii2.xn--80aa1a3abee6e.xn--p1ai/controllers/SiteController.php:0
+[11-Mar-2021 09:20:28 Europe/Moscow] PHP Fatal error:  Class 'yii\web\Controller' not found in /home/adfbedae/yii2.xn--80aa1a3abee6e.xn--p1ai/controllers/SiteController.php on line 13
+[11-Mar-2021 09:20:28 Europe/Moscow] PHP Stack trace:
+[11-Mar-2021 09:20:28 Europe/Moscow] PHP   1. {main}() /home/adfbedae/yii2.xn--80aa1a3abee6e.xn--p1ai/controllers/SiteController.php:0
+[11-Mar-2021 09:21:06 Europe/Moscow] PHP Fatal error:  Class 'yii\web\Controller' not found in /home/adfbedae/yii2.xn--80aa1a3abee6e.xn--p1ai/controllers/SiteController.php on line 13
+[11-Mar-2021 09:21:06 Europe/Moscow] PHP Stack trace:
+[11-Mar-2021 09:21:06 Europe/Moscow] PHP   1. {main}() /home/adfbedae/yii2.xn--80aa1a3abee6e.xn--p1ai/controllers/SiteController.php:0
+[11-Mar-2021 09:21:07 Europe/Moscow] PHP Fatal error:  Class 'yii\web\Controller' not found in /home/adfbedae/yii2.xn--80aa1a3abee6e.xn--p1ai/controllers/SiteController.php on line 13
+[11-Mar-2021 09:21:07 Europe/Moscow] PHP Stack trace:
+[11-Mar-2021 09:21:07 Europe/Moscow] PHP   1. {main}() /home/adfbedae/yii2.xn--80aa1a3abee6e.xn--p1ai/controllers/SiteController.php:0
